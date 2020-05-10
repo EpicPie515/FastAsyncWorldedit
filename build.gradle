@@ -110,6 +110,7 @@ subprojects {
         maven {url "http://dl.bintray.com/tastybento/maven-repo"}
         maven {url "https://repo.inventivetalent.org/content/groups/public/"}
         maven {url "https://store.ttyh.ru/libraries/"}
+	maven {url "https://mvn.intellectualsites.com/content/groups/public/"}
 	maven {url "https://repo.dmullloy2.net/nexus/repository/public/"}
     }
 }
